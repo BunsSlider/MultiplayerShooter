@@ -2,6 +2,11 @@ int main(){
   int a = 5;
   int b = 6;
   int c = 7;
+	return 0;
 }
 
 main();
+
+int test function{
+	return 0;
+}
